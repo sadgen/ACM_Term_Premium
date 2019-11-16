@@ -12,4 +12,4 @@ Function ACMresultfunc is used for replicating ACM result from:
 6.ShowTerms: result display terms
 
 # Additional result:
-While ACM original paper using all curve data from 1961 up to date, my following results using rolling year data to calculate Term Premium.
+While ACM original paper using all curve data from 1961 up to date, my following results using rolling years data to calculate Term Premium.
